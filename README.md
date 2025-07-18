@@ -11,7 +11,8 @@ Estudante de Análise e Desenvolvimento de Sistemas no último período, com foc
 ## Educação
 
 ### Estácio, Tecnólogo em Análise e Desenvolvimento de Sistemas
-
+- **Cursos relevantes:** Estrutura de Dados, Algoritmos e Complexidade, Desenvolvimento de Software Seguro, Comunicação entre Aplicações, Modelagem de Sistemas em UML.
+- **CRA:** 7.0/10
 
 ---
 
