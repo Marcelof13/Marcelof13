@@ -3,15 +3,15 @@
 
 Rio de Janeiro, RJ | [marcelofrancisco.silva13@gmail.com](marcelofrancisco.silva13@gmail.com) | [linkedin.com/in/marcelo-silva13](https://www.linkedin.com/in/marcelo-silva13/)
 
-## Resumo
-Estudante de Análise e Desenvolvimento de Sistemas no último período, com foco em desenvolvimento backend com Java e Spring Boot. Busca aplicar boas práticas de código e criar APIs robustas e escaláveis.
+## About me 
+Final-year student of Systems Analysis and Development, focused on backend development with Java and Spring Boot. Aims to apply clean code practices and build robust, scalable APIs.
 
 ---
 
-## Educação
+## Education
 
-### Estácio, Tecnólogo em Análise e Desenvolvimento de Sistemas
-- **Cursos relevantes:** Estrutura de Dados, Algoritmos e Complexidade, Desenvolvimento de Software Seguro, Comunicação entre Aplicações, Modelagem de Sistemas em UML.
+### Estácio – Associate Degree in Systems Analysis and Development
+- **Relevant Courses: Data Structures, Algorithms and Complexity, Secure Software Development, Application Communication, System Modeling with UML.
 - **CRA:** 7.0/10
 
 ---
@@ -22,17 +22,17 @@ Estudante de Análise e Desenvolvimento de Sistemas no último período, com foc
 
 ---
 -->
-## Habilidades
+## Skills
 
-- **Habilidades Técnicas:** Java, Git/GitHub, Linux, Windows, HTML, CSS, JavaScript, Python (Pandas, SQLAlchemy), MySQL, PLSQL.
-- **Habilidades Analíticas:** Análise exploratória de dados, Limpeza e preparação de datasets, Visualização de dados, Interpretação de resultados, Identificação de padrões e tendências.
-- **Habilidades Interpessoais:** Comunicação eficaz, Trabalho em equipe, Resolução de problemas complexos, Pensamento crítico, Gestão de tempo, Adaptabilidade, Apresentações para stakeholders.
+- **Technical Skills:** Java, Git/GitHub, Linux, Windows, HTML, CSS, JavaScript, Python (Pandas, SQLAlchemy), MySQL, PLSQL.
+- **Analytical Skills:** Exploratory data analysis, Dataset cleaning and preparation, Data visualization, Results interpretation, Pattern and trend identification.
+- **Interpersonal Skills:** Effective communication, Teamwork, Complex problem-solving, Critical thinking, Time management, Adaptability, Stakeholder presentations.
 
 ---
 
-## Idiomas
-- **Português:** Nativo
-- **Inglês:** Fluente
+## Languages
+- **Portuguese:** Native
+- **English:** Fluent
 
 
 
